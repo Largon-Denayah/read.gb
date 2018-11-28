@@ -1,0 +1,56 @@
+LOCUS       HE799070                 522 bp    DNA     linear   ENV 27-JUN-2013
+DEFINITION  Uncultured Glomus partial 18S rRNA gene, isolate NH1PA-4 VT214,
+            clone 2390_cloned.
+ACCESSION   HE799070
+VERSION     HE799070.1
+KEYWORDS    ENV.
+SOURCE      uncultured Glomus
+  ORGANISM  uncultured Glomus
+            Eukaryota; Fungi; Mucoromycota; Glomeromycotina; Glomeromycetes;
+            Glomerales; Glomeraceae; environmental samples.
+REFERENCE   1
+  AUTHORS   Opik,M., Zobel,M., Cantero,J.J., Davison,J., Facelli,J.M.,
+            Hiiesalu,I., Jairus,T., Kalwij,J.M., Koorem,K., Leal,M.E.,
+            Liira,J., Metsis,M., Neshataeva,V., Paal,J., Phosri,C., Polme,S.,
+            Reier,U., Saks,U., Schimann,H., Thiery,O., Vasar,M. and Moora,M.
+  TITLE     Global sampling of plant roots expands the described molecular
+            diversity of arbuscular mycorrhizal fungi
+  JOURNAL   Mycorrhiza 23 (5), 411-430 (2013)
+   PUBMED   23422950
+REFERENCE   2  (bases 1 to 522)
+  AUTHORS   Opik,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-MAR-2012) University of Tartu, Department of Botany,
+            40 Lai St., Tartu, 51005, ESTONIA
+FEATURES             Location/Qualifiers
+     source          1..522
+                     /organism="uncultured Glomus"
+                     /mol_type="genomic DNA"
+                     /isolate="NH1PA-4 VT214"
+                     /isolation_source="desert plant roots"
+                     /host="Plantago afra"
+                     /db_xref="taxon:231055"
+                     /clone="2390_cloned"
+                     /environmental_sample
+                     /country="Israel"
+                     /lat_lon="30.59 N 34.71 E"
+                     /collection_date="25-Mar-2009"
+                     /PCR_primers="fwd_name: NS31, fwd_seq:
+                     ttggagggcaagtctggtgcc, rev_name: AML2, rev_seq:
+                     gaacccaaacactttggtttcc"
+     gene            <1..>522
+                     /gene="18S rRNA"
+     rRNA            <1..>522
+                     /gene="18S rRNA"
+                     /product="18S ribosomal RNA"
+ORIGIN      
+        1 agcagccgcg gtaattccag ctccaatagc gtatattaaa gttgttgcag ttaaaaagct
+       61 cgtagttgaa tttcgggatc agtacgctgg tcgtgccttc ggtatgaact ggtgtcactg
+      121 gttcctccct tctgaagaac cgtcatgcca ttcagttggt gtggcgggga atcaggactg
+      181 ttactttgaa aaaattagag tgtttaaagc aggctcgcgc ttgaatacat tggcatggaa
+      241 taatgaaata ggacgtttga ccctattttg ttggtttcta ggatcgacgt aatgattaat
+      301 agggatagtt gggggcatta gtattcaatt gtcagaggtg aaattcttgg atttattgaa
+      361 gactaactac tgcgaaagca tttgccaagg atgttttcat taatcaagaa cgaaagttag
+      421 gggatcgaag acgatcagat accgtcgtag tcttaaccat aaactatgcc gactagggat
+      481 cggatgatgt taatttttta atgactcatt cggcgcctta cg
+//
